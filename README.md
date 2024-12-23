@@ -4,6 +4,7 @@ Lunix is a powerful and feature-rich Roblox exploit designed for advanced users 
 
 ## How to Use It?
 
+- Goto the discord for download: https://discord.gg/57Ntf3uqxT
 - **It has no key system!!**
 - Open the file called `Lunix.exe`.
 - Click **Inject** when Roblox is open (Please inject in-game. It may crash if injected outside a game).
